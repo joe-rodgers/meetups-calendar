@@ -1,2 +1,2 @@
-# meetups-calendar
+# Bitcoin Meetups Calendar
 Bitcoin Meetups Calendar
